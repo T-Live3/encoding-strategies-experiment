@@ -1,4 +1,4 @@
-
+      
 const experiment = document.getElementById("experiment");
 
 const strategies = [
@@ -32,9 +32,9 @@ const wordLists = [
     words: ["banana", "table", "hammer", "mountain", "basket", "flower"]
   },
   {
-    id: "C",
-    words: ["orange", "mirror", "pillow", "guitar", "garden", "ticket"]
-  }
+  id: "C",
+  words: ["lantern", "bicycle", "blanket", "dolphin", "suitcase", "spoon"]
+}
 ];
 
 let session = null;
